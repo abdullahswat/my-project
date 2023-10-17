@@ -3,6 +3,7 @@ import {
   FaBars,
   FaTimes,
   FaGithub,
+  FaLinkedin
 
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
